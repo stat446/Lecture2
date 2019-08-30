@@ -1,0 +1,83 @@
+---
+title: "Lecture 1 - Key"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+```
+
+
+#### Selection Bias
+A sampling scheme displays  **bias** 
+\vfill
+
+**Selection bias** occurs whenever the researchers select their sample in a way that makes it unrepresentative of the population. Lohr states 
+\vfill
+
+Selection of whichever individuals are easiest to reach is called 
+\vfill
+
+Give an example of a sampling scheme for the Bridger Bowl question that is a convenience survey that will lead to selection bias.
+\vfill
+
+How might political polling using landlines be subject to selection bias?
+\vfill
+
+Participation bias often occurs in 
+\vfill
+
+Voluntary (self-selected) responses tend to 
+\vfill
+
+Selection bias can also occur when a 
+		  
+- For example, a wildlife biologist decides to collect information about a bird species from only those areas that she considers to be typical or representative of the habitat type the bird would be found in.
+\vfill
+
+A sample suffers from 
+\vfill
+
+- You want to estimate the size of the elk population in a study area in Yellowstone. Certain areas are too remote to access and so are not in the sample by choice (not by random design). From the data that is collected, you provide an estimate for the entire study area (which includes the inaccessible parts).
+\vfill
+\newpage
+A sample suffers from 
+	  
+- A local newspaper wants to estimate the proportion of Gallatin County voters who support a referendum to introduce a `tourist tax' which imposes a sales tax on hotels and goods commonly purchased by tourists. The voters are required to vote online through the newspapers website. There is no way to guarantee the online participants are eligible voters in Gallatin Counts.
+
+#### Nonresponse and Measurement Errors
+**Nonresponse errors** occur when the sampling unit 
+\vfill 
+
+- A questionnaire respondent refuses to provide certain information (e.g., regarding age, income, gender, ect...) or refuses to participate at all (e.g., phone surveys).
+- The measurement device breaks down. It gets too dark to take measurements. You run out of money, You fail to find the sampling unit.
+\vfill
+
+The problem of nonresponse is 
+\vfill
+
+However, if certain cases are strongly correlated with a tendency for nonresponse, 
+\vfill
+
+Suppose the question on a survey is `Have you ever driven while intoxicated?' I would expect that those who have actually driven while intoxicated are less likey to respond than thos who have not.
+\vfill
+
+Note that bias due to nonresponse is not a form of selection bias. 
+\vfill
+
+**Measurement errors** or observational errors 
+\vfill
+
+- In a study area, the presence of a bird's nest is missed and `absence' is recorded. This also happens when studying elusive populations.
+- The measuring device is uncalibrated or its user is improperly trained.
+- People lie when asked about sensitive issues (e.g., drug use, criminal history, income, voting preference, etc..)
+\vfill
+
+**Response bias** occurs when the responses taken from the sampling units tend to differ from the truth in one particular direction. 
+\vfill
+
+- A field ecologist records an estimate of the distance between a snowmobile and a group of elk. This ecologist tends to underestimate the true distance, so the recorded distances are understated values of the true distances.
+\vfill
+	  
+Response bias occurs in surveys when the response given by the respondent 
